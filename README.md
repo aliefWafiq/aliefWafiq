@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alief wafiq ramadhan</h1>
 <h3 align="center">a Junior software engineer<br> student at Vocational High School 2 Pekanbaru</h3>
 
-- 👨‍💻 Visit My Portofolio [https://alief123d.github.io/portofolio/](https://alief123d.github.io/portofolio/)
+- 👨‍💻 Visit My Portofolio [https://aliefWafiq.github.io/portofolio/](https://alief123d.github.io/portofolio/)
 - 📫 How to reach me **aliefwafiq2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
