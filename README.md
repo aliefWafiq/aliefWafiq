@@ -5,7 +5,7 @@
 - 👨‍💻 Visit My Portofolio [https://alief123d.github.io/portofolio/](https://alief123d.github.io/portofolio/)
 
 - 📫 How to reach me **aliefwafiq2@gmail.com**
-- </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
