@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alief wafiq ramadhan</h1>
 <h3 align="center">a Junior software engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://alief123d.github.io/portofolio/](https://alief123d.github.io/portofolio/)
+- 👨‍💻 Visit My Protofolio [https://alief123d.github.io/portofolio/](https://alief123d.github.io/portofolio/)
 
 - 📫 How to reach me **aliefwafiq2@gmail.com**
 
