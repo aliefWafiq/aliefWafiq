@@ -1,5 +1,5 @@
 # 💫 About Me:
-a Junior software engineer<br>student at Vocational High School 2 Pekanbaru
+a Junior software engineer<br>student at SMK Negeri 2 Pekanbaru
 
 
 ## 🌐 Socials:
