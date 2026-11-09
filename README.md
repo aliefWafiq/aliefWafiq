@@ -1,18 +1,98 @@
-# 💫 About Me:
-Software Engineer
+## Learning log
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=aliefwafiq&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110883337%3Fu%3Da8a42e4e8600c68b718c40664b61073f9bdaa882%26v%3D4" alt="aliefwafiq hero visual" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/aliefwafiq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/alief-wafiq-a4a063260) 
+**alief wafiq ramadhan** · Frontend or full-stack engineer
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aliefWafiq&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aliefWafiq&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliefWafiq&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Currently learning
 
----
-[![](https://visitcount.itsvg.in/api?id=aliefWafiq&icon=0&color=0)](https://visitcount.itsvg.in)
+> Building useful things and learning in public.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Learning next**
+
+- JavaScript
+- CSS
+- HTML
+
+👥 **18** followers · **20** following
+
+## Tools I’m practicing
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=aliefwafiq&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110883337%3Fu%3Da8a42e4e8600c68b718c40664b61073f9bdaa882%26v%3D4" alt="aliefwafiq stack visual" />
+</p>
+
+## Projects in progress
+
+<details>
+<summary><b>mangga.id</b> · PHP</summary>
+
+Web baca manga, fitur : regis akun, login akun, add manga, edit profile, edit manga, hapus manga, add panel chapter manga, detail manga, baca manga, sistem level user<br/>
+⭐ 2 · 🍴 1
+
+[View repository](https://github.com/aliefWafiq/mangga.id)
+</details>
+
+<details>
+<summary><b>topup</b> · TypeScript</summary>
+
+A selected project from this GitHub profile.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/aliefWafiq/topup)
+</details>
+
+<details>
+<summary><b>Brain-Tumor-Classification-Model</b> · Python</summary>
+
+WIP<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/aliefWafiq/Brain-Tumor-Classification-Model)
+</details>
+
+<details>
+<summary><b>Anything-Tools</b> · Python</summary>
+
+A selected project from this GitHub profile.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/aliefWafiq/Anything-Tools)
+</details>
+
+<details>
+<summary><b>hunt</b> · Lua</summary>
+
+A selected project from this GitHub profile.<br/>
+⭐ 0 · 🍴 0
+
+[View repository](https://github.com/aliefWafiq/hunt)
+</details>
+
+## Progress so far
+
+- **Current streak:** 1 days
+- **Longest streak:** 6 days
+- **Active days:** 76 days
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=aliefwafiq&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110883337%3Fu%3Da8a42e4e8600c68b718c40664b61073f9bdaa882%26v%3D4" alt="aliefwafiq stats visual" />
+</p>
+
+## Learning streak
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=aliefwafiq&theme=zen" alt="aliefwafiq contribution activity" />
+</p>
+
+## Say hello
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=aliefwafiq&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110883337%3Fu%3Da8a42e4e8600c68b718c40664b61073f9bdaa882%26v%3D4" alt="aliefwafiq social visual" />
+</p>
+
+<a href="https://github.com/aliefwafiq">GitHub</a>
+
+<p align="center"><sub>alief wafiq ramadhan · <a href="https://www.gitskins.com/readme-generator?template=community-student-remix-xzws">Student Remix</a> template by <a href="https://www.gitskins.com/creators/Frost-Asnyc">@Frost-Asnyc</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=student">Student</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
