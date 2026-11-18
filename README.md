@@ -1,7 +1,7 @@
 ## Learning log
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=aliefwafiq&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110883337%3Fu%3Da8a42e4e8600c68b718c40664b61073f9bdaa882%26v%3D4" alt="aliefwafiq hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=aliefwafiq&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110883337%3Fu%3D2cb833fef9a99959c1a096aea2619f98898dc26f%26v%3D4" alt="aliefwafiq hero visual" />
 </p>
 
 **alief wafiq ramadhan** · Frontend or full-stack engineer
